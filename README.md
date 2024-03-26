@@ -94,6 +94,12 @@ Veuillez d'abord télécharger et installer la [bibliothèque HUSKYLENS](https:/
       }
   }
 
-   ```
-- Vérifier la carte (**Tools > Board >** saisir la bonne carte) et port sur arduino, en allant dans **Tools >  Port >** et saisir son port, compiler le programme et ouvrer le **"Serial Monitor"**
+   ```  
+- Vérifier la carte (__Tools > Board >__ saisir la bonne carte) et port sur arduino, en allant dans __Tools >  Port >__ et saisir son port, compiler le programme et ouvrer le __"Serial Monitor"__.
+  <img src="assets/SerialMonitor.png"/>
+
+> [!NOTE]
+> Veillez a changer le débit des bauds à __115200 bauds__, comme dans l'image ci-dessus.
+
+- Une fois l'objet appris à l'aide du bouton de la caméra vous pouvez remarquer sur dans le Serial Monitor 4 données important : Les coordonées de l'objet sur la caméra __(xCenter et yCenter)__ et la taille du carré sur la caméra __(width et height)__   <img src="assets/comObject.png"/>
   
