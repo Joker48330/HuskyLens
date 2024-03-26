@@ -9,7 +9,7 @@ Utilisation de la caméra HuskyLens pour détecter une balle
       
 
 
-   <img src="assets/connections.png" width="500" height="500"/>
+   <img src="assets/connections2.png" width="500" height="500"/>
    
 > [!WARNING]
 > Fais vérifier ton câblage à ton prof avant de brancher ta carte arduino.
