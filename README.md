@@ -9,7 +9,7 @@ Utilisation de la caméra HuskyLens pour détecter une balle
       
 
 
-   <img src="assets/connections2.png" width="500" height="500"/>
+   <img src="assets/connections2.png" width="500"/>
    
 > [!WARNING]
 > Fais vérifier ton câblage à ton prof avant de brancher ta carte arduino.
@@ -18,7 +18,7 @@ Utilisation de la caméra HuskyLens pour détecter une balle
 
 - Tu peux changer de mode avec la roulette en la tournant à droite ou à gauche, tu peux appuyer sur la roulette pour sélectionner le mode que tu souhaites. Le bouton permet d'apprendre ou oublier l'objet enregistrer précedemment. 
 
-<img src="assets/buttons.png" width="500" height="500"/>
+<img src="assets/buttons.png" width="500"/>
 
 - Lorsque la caméra détecter un objet, la cible est placer sur le système de coordonnées suivant.
 
